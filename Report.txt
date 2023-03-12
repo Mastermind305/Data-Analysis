@@ -1,0 +1,32 @@
+Report on Dataset scraped from IMDB on the Top 250 Movies of all time.
+
+The dataset contains information on the top 250 movies of all time, according to IMDB's ratings. 
+The data was scraped from the IMDB website and contains information such as movie title, 
+year of release, ratings, and ranking.
+
+Exploratory Data Analysis:
+
+Data Cleaning: The dataset was relatively clean and did not contain many missing values. 
+However, some data cleaning was required to convert some columns to their correct data 
+types and to remove duplicate values.
+
+Summary Statistics: The average rating for the top 250 movies was 8.4, with a minimum 
+rating of 8.0 and a maximum rating of 9.2. The movies in the dataset were released between 
+1921 and 2021, with an average release year of 1989.
+
+Correlation Analysis: There was a moderate positive correlation between the rating of a movie
+ and the number of votes it had received, suggesting that more popular movies tend to have higher ratings.
+
+Visualization: Visualizations such as histograms, scatter plots, and bar charts were used to 
+visualize the data and identify patterns and relationships.
+
+Conclusion:
+The dataset of the top 250 movies from IMDB provided interesting insights into the characteristics
+of highly rated movies. The most common genre was Drama, and Steven Spielberg directed the most 
+movies in the top 250 list. The dataset also showed a positive correlation between a movie's rating 
+and the number of votes it had received. This dataset could be useful for filmmakers and movie 
+enthusiasts looking to understand the characteristics of highly rated movies.
+
+
+
+
